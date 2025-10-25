@@ -35,23 +35,20 @@ Based on your mood, the app automatically recommends songs that match your emoti
 Follow these steps to run the project locally 👇
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/pritykumari1910/mood-scape.git
 cd mood-scape
 2️⃣ Create a virtual environment (optional but recommended)
-bash
-Copy code
+
 python -m venv venv
 source venv/Scripts/activate    # For Windows
 # OR
 source venv/bin/activate        # For Mac/Linux
 3️⃣ Install dependencies
-bash
-Copy code
+
 pip install -r requirements.txt
 4️⃣ Run the Flask app
-bash
-Copy code
+
 python app.py
 5️⃣ Open in browser
 Go to:
